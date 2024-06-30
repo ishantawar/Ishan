@@ -9,6 +9,10 @@ This project provides a visual representation of various CPU scheduling algorith
 - **User Interaction**: Allows users to input process details and parameters like context switch time and time quantum.
 - **Explanation**: Provides detailed explanations of the algorithms used.
 
+## Demo
+
+Check out the live demo [here](https://divyanshjain122.github.io/OS-Scheduling-Visulaiser/).
+
 ## Technologies Used
 
 - HTML, CSS, JavaScript
